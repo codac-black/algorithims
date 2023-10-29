@@ -2,3 +2,7 @@ dda.exe
 ddac++.exe
 tictactoe.py
 sim2.py
+bubblesort.test.js
+node_modules
+package.json
+package-lock.json
